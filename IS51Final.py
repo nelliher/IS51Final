@@ -12,3 +12,16 @@ Function 3 will sum all grades above average.
 It will output the percentage above average. After the code has ran, it will output the percentage of grades that
 are above average.
 """
+
+"""
+# function1
+  add total number of grades
+
+# function2 
+  add sum of all grades / total number of grades
+
+# function3
+  n*100 / len(grades)
+
+#main
+"""
